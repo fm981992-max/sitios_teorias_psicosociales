@@ -1,0 +1,44 @@
+Pon aquí las fotos de los autores, con EXACTAMENTE estos nombres (en formato .jpg o .png):
+
+Modelos clásicos (1 a 6):
+ivan-pavlov
+john-b-watson
+b-f-skinner
+edward-thorndike
+aaron-beck
+albert-ellis
+albert-bandura
+donald-meichenbaum
+sigmund-freud
+carl-jung
+erik-erikson
+gail-fidler
+adolf-meyer
+anne-mosey
+george-engel
+l-von-bertalanffy
+oms
+gary-kielhofner
+janice-burke
+mary-reilly
+
+Modelos añadidos (7 a 11):
+claudia-k-allen
+jean-piaget
+earhart-y-blue
+anne-cronin-mosey (utiliza anne-mosey.jpg automáticamente si ya existe)
+michael-k-iwama
+terapeutas-japoneses
+pensamiento-oriental
+mary-law-y-cols
+kurt-lewin
+lawton-y-nahemow
+urie-bronfenbrenner
+caot
+mary-law
+carl-rogers
+fearing-clark-y-law
+
+Ejemplo: ivan-pavlov.jpg o ivan-pavlov.png
+Recomendación: fotos en proporción cuadrada (1:1, por ejemplo 400x400 píxeles), rostro centrado.
+Si falta una foto, la página web muestra automáticamente un avatar elegante con las iniciales del autor sobre el color de su modelo.
